@@ -11,7 +11,7 @@
 
 **Importance of analyzing sales data**: The analysis of sales data is crucial for identifying and understanding sales patterns, as well as tracking key performance indicators (KPIs). This data-driven insight is essential for optimizing strategies and improving overall sales effectiveness.
 
-Role of reports: Reports play a pivotal role in determining optimal customer discounts, facilitating negotiations with consumers, and identifying potential opportunities for business expansion in promising countries.
+**Role of reports**: Reports play a pivotal role in determining optimal customer discounts, facilitating negotiations with consumers, and identifying potential opportunities for business expansion in promising countries.
 
 ## Finance Report :
 ### Project objective:
